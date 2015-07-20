@@ -1,0 +1,3 @@
+This is the licence set class
+2 nd doing changes in testing
+3rd this is a change in hotfix - after doing changes in testing
